@@ -1,5 +1,5 @@
 # call-stats
-This program processes customer call records. The program reads the records in the datafile "callstats_data.txt" into a dynamic array of call records, then processes each call record in the dynamic array, and prints the dynamic array of call records to the screen. 
+This program, developed in C++, processes customer call records. The program reads the records in the datafile "callstats_data.txt" into a dynamic array of call records, then processes each call record in the dynamic array, and prints the dynamic array of call records to the screen. 
 
 The main program contains different test cases that are able to search, add, and remove records from the dynamic array of call records. 
 
