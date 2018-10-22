@@ -1,11 +1,7 @@
 /************************************************************************************************************************
 
-Name: Rosalba Monterrosas             Z#: 23361820
-Course: Foundations of Computer Science (COP3014)
-Professor: Dr. Lofton Bullard
-Due Date: 10/25/2018           Due Time: 11:59pm
-Total Points: 100
-Assignment #8: call_stats5.cpp
+Name: Rosalba Monterrosas           
+Date: 10/22/2018 
 
 Description:
 In this assignment a program that processes customer call records is implemented. The program reads the records in a datafile
