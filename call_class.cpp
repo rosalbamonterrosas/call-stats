@@ -1,14 +1,10 @@
 /************************************************************************************************************************
 
-Name: Rosalba Monterrosas             Z#: 23361820
-Course: Foundations of Computer Science (COP3014)
-Professor: Dr. Lofton Bullard
-Due Date: 11/29/2018           Due Time: 11:59pm
-Total Points: 100
-Assignment #11: call_stats8.cpp
+Name: Rosalba Monterrosas            
+Due Date: 11/29/2018          
 
 Description:
-In this assignment a program that processes customer call records is implemented. The program reads the records in a datafile
+This program processes customer call records. The program reads the records in a datafile
 into a dynamic array of call records which is managed by a class, then processes each call record in the dynamic array, and
 prints the dynamic array of call records to the screen. The program is able to search, add, and remove records. Each customer
 call record contains nine fields, which are as follows: 1) first name 2) last name 3) a ten digit cell phone number,
@@ -144,7 +140,7 @@ void call_class::add()
 //Precondition: The dynamic array call_record *call_DB in class call_class has been initialized. The variable count in 
 //class call_class and the variable key have been initialized.
 //Postcondition: A record has been removed from the dynamic array call_record *call_DB in class call_class. The count is decremented by 1.
-//Decription: overload operator “-“ as a member function of call_class with chaining. Remove key from call_DB if it is there.
+//Decription: overload operator â€œ-â€œ as a member function of call_class with chaining. Remove key from call_DB if it is there.
 /*******************************************************************************************************************************/
 call_class & call_class::operator -(const string key)
 {
