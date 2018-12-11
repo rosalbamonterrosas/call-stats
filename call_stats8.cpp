@@ -1,14 +1,10 @@
 /************************************************************************************************************************
 
-Name: Rosalba Monterrosas             Z#: 23361820
-Course: Foundations of Computer Science (COP3014)
-Professor: Dr. Lofton Bullard
-Due Date: 11/29/2018           Due Time: 11:59pm
-Total Points: 100
-Assignment #11: call_stats8.cpp
+Name: Rosalba Monterrosas             
+Date: 11/29/2018           
 
 Description:
-In this assignment a program that processes customer call records is implemented. The program reads the records in a datafile
+This program processes customer call records. The program reads the records in a datafile
 into a dynamic array of call records which is managed by a class, then processes each call record in the dynamic array, and
 prints the dynamic array of call records to the screen. The program is able to search, add, and remove records. Each customer
 call record contains nine fields, which are as follows: 1) first name 2) last name 3) a ten digit cell phone number,
